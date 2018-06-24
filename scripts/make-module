@@ -17,8 +17,8 @@ echo "<project xmlns=\"http://maven.apache.org/POM/4.0.0\" xmlns:xsi=\"http://ww
     <modelVersion>4.0.0</modelVersion>\n\
 \n\
     <parent>\n\
-        <groupId>com.jmattfong.eliza</groupId>\n\
-        <artifactId>eliza</artifactId>\n\
+        <groupId>com.jmattfong.socialnetwork</groupId>\n\
+        <artifactId>social-network</artifactId>\n\
         <version>0.1-SNAPSHOT</version>\n\
     </parent>\n\
 \n\
@@ -27,7 +27,7 @@ echo "<project xmlns=\"http://maven.apache.org/POM/4.0.0\" xmlns:xsi=\"http://ww
 \n\
     <dependencies>\n\
         <dependency>\n\
-            <groupId>com.jmattfong.eliza</groupId>\n\
+            <groupId>com.jmattfong.socialnetwork</groupId>\n\
             <artifactId>common</artifactId>\n\
         </dependency>\n\
     </dependencies>\n\
@@ -35,7 +35,7 @@ echo "<project xmlns=\"http://maven.apache.org/POM/4.0.0\" xmlns:xsi=\"http://ww
     <dependencyManagement>\n\
         <dependencies>\n\
             <dependency>\n\
-                <groupId>com.jmattfong.eliza</groupId>\n\
+                <groupId>com.jmattfong.socialnetwork</groupId>\n\
                 <artifactId>common-bom</artifactId>\n\
                 <version>0.1-SNAPSHOT</version>\n\
                 <type>pom</type>\n\

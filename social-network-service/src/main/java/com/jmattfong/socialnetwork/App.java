@@ -1,4 +1,4 @@
-package com.jmattfong.eliza;
+package com.jmattfong.socialnetwork;
 
 /**
  * Hello world!

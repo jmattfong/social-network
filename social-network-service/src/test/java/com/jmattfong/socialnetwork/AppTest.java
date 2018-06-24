@@ -1,4 +1,4 @@
-package com.jmattfong.eliza;
+package com.jmattfong.socialnetwork;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

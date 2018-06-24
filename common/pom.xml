@@ -44,7 +44,7 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>com.jmattfong.eliza</groupId>
+                <groupId>com.jmattfong.socialnetwork</groupId>
                 <artifactId>common-bom</artifactId>
                 <version>0.1-SNAPSHOT</version>
                 <type>pom</type>
